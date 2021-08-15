@@ -12,6 +12,14 @@ UI Clone - Github
 
 ---
 
+## About
+
+<p>I created this app in order to challenge me to learn new and more advanced things, like TypeScript, React.Js. So I thought creating a clone of the GitHub UI would be a great way to go about it.</p>
+<p>And of course, as I'm starting out, I didn't develop this from scratch. I want to thank <a href="https://www.youtube.com/c/RocketSeat">Rocketseat</a>, they are amazing!</p>
+<p>But of course I intend to add new features to this project as I improve my development skills.</p>
+
+---
+
 ## Techs
 
 - [x] Fetch API

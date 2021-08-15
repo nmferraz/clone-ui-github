@@ -3,7 +3,7 @@ UI Clone - Github
 </h1>
 
 <p align="center">Responsive Github UI Clone for study purposes.</p>
-<p align="center">Deployed <a href="#">here</a>.</p>
+<p align="center">Deployed <a href="https://cloneuigithub.netlify.app/">here</a>.</p>
 
 <hr>
 

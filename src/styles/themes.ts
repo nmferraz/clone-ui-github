@@ -45,11 +45,11 @@ export const themes = {
     border: '#343434',
     ticker: 'rgba(90, 90, 90, .5)',
 
-    'calendar-scale-0': '#282828',
-    'calendar-scale-1': 'rgba(79, 140, 201, 0.25)',
-    'calendar-scale-2': 'rgba(79, 140, 201, 0.5)',
-    'calendar-scale-3': 'rgba(79, 140, 201, 0.75)',
-    'calendar-scale-4': 'rgba(79, 140, 201, 1)',
+    'calendar-scale-0': '#ebedf0',
+    'calendar-scale-1': '#9BE9A8',
+    'calendar-scale-2': '#3FC463',
+    'calendar-scale-3': '#30A14E',
+    'calendar-scale-4': '#216E3A',
 
     javascript: '#f1e05a',
     typescript: '#2b7489',

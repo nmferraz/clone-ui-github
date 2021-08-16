@@ -45,7 +45,7 @@ export const themes = {
     border: '#343434',
     ticker: 'rgba(90, 90, 90, .5)',
 
-    'calendar-scale-0': '#1b1f23',
+    'calendar-scale-0': 'rgba(19, 24, 25, 1.0)',
     'calendar-scale-1': '#9BE9A8',
     'calendar-scale-2': '#3FC463',
     'calendar-scale-3': '#30A14E',
